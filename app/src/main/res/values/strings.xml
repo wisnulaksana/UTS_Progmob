@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">UTS Music</string>
+    <string name="youtube1">
+        <a href="https://www.youtube.com/watch?v=bgIUdb-7Rqo">1. Button Navigation Tutorial</a>
+    </string>
+    <string name="website1">
+        <a href="https://stackoverflow.com/questions/6763111/how-to-change-color-of-textview-hyperlink">1. Change Hyperlink TextView Color</a>
+    </string>
+    <string name="youtube2">
+        <a href="https://www.youtube.com/watch?v=hd0VNgTRzfA">2. Link TextView To Website</a>
+    </string>
+    <string name="youtube3">
+        <a href="https://youtu.be/prxqc-B1h1w">3. Show Song List</a>
+    </string>
+    <string name="youtube4">
+        <a href="https://youtube.com/playlist?list=PLwQLA73lSe1RfjMzbRLoIkcIJBu25FnVJ">4. Play Song</a>
+    </string>
+    <string name="youtube5">
+        <a href="https://www.youtube.com/watch?v=1xRC1DMWg9I">5. PopUp Menu Tutorial</a>
+    </string>
+    <string name="website2">
+        <a href="https://stackoverflow.com/questions/40522562/how-to-show-a-custom-dialog-box-when-an-activity-start">2. Show Dialog Box Tutorial</a>
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
